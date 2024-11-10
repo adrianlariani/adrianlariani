@@ -4,7 +4,7 @@ I'm Adrian Lariani, a 2nd year Computer Science student at Rochester Institute o
 
 ## 📚 What I'm Working On
 - **Lego Renderer Integration:** I’m actively integrating my Lego Renderer into an automated Lego database and sorter system. This integration aims to streamline cataloging, sorting, and data retrieval of Lego parts, with plans for future machine learning applications to make this process as efficient as possible.
-- **The Couch Critic:** I’m adding fresh content to my blog, The Couch Critic, as I explore more movies and TV shows. It’s a space where I share insights and analyses, aiming to create a comprehensive resource for media fans.
+- **The Couch Critic:** I’m adding fresh content to my blog, The Couch Critic, as I explore more movies and TV shows. It’s a space where I share insights and analyses to share my thoughts on media I enjoy and further my fullstack knowledge.
   - https://the-couch-critic.vercel.app/
 
 ## 📫 Contact Me
