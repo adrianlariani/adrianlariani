@@ -1,11 +1,10 @@
 # Hello 👋
 
-I'm Adrian Lariani, a 2nd year Computer Science student at Rochester Institute of Technology. Currently, I am focused on software engineering and data science projects, with experience in developing full-stack applications and building predictive models.
-
+I'm Adrian Lariani, a 3rd year Computer Science student at Rochester Institute of Technology. Currently, I am focused on software engineering and data science projects, with experience in developing full-stack applications and building predictive models.
+<!--
 ## 📚 What I'm Working On
-- **Lego Renderer Integration:** I’m actively integrating my Lego Renderer into an automated Lego database and sorter system. This integration aims to streamline the cataloging, sorting, and data retrieval of Lego parts, with plans for future machine learning applications to make this process as efficient as possible.
-- **The Couch Critic:** I’m adding fresh content to my blog, The Couch Critic, as I watch more movies and TV shows. It’s a space where I share insights and analyses to share my thoughts on media I enjoy and further my fullstack knowledge.
-  - https://the-couch-critic.vercel.app/
+    -->
+
 
 ## 📫 Contact Me
 
@@ -13,7 +12,7 @@ I'm Adrian Lariani, a 2nd year Computer Science student at Rochester Institute o
 - LinkedIn: https://linkedin.com/in/adrian-lariani
 
 ## ❗Job Search
-I’m seeking co-op opportunities in the United States for Fall 2025, Spring 2026, and or Summer 2026. I aim to gain experience in software engineering and data science roles where I can contribute to meaningful projects and grow professionally.
+I’m seeking co-op opportunities in the United States. I aim to gain experience in software engineering and data science roles where I can contribute to meaningful projects and grow professionally.
 
 
 ## Skills and Technologies
