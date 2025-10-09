@@ -1,4 +1,4 @@
-# Hello 👋
+# Hello
 
 I'm Adrian Lariani, a 3rd year Computer Science student at Rochester Institute of Technology. Currently, I am focused on software engineering and data science projects, with experience in developing full-stack applications and building predictive models.
 <!--
